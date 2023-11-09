@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MapleReaper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SelectedScript" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SelectedVersion" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="IsSellingEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SellingDelay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">45</Value>
+    </Setting>
+    <Setting Name="SellingCommand1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">@販賣道具 裝備 1 96</Value>
+    </Setting>
+    <Setting Name="SellingCommand2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">@販賣道具 裝備 1 95</Value>
+    </Setting>
+    <Setting Name="AttackKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A</Value>
+    </Setting>
+    <Setting Name="AttackDelay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">650</Value>
+    </Setting>
+    <Setting Name="BuffKeys" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Home,S,Insert</Value>
+    </Setting>
+    <Setting Name="BuffPreDelays" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0,1800,200</Value>
+    </Setting>
+    <Setting Name="BuffDelays" Type="System.String" Scope="User">
+      <Value Profile="(Default)">900,1800,1800</Value>
+    </Setting>
+    <Setting Name="IsRebirthEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RebirthDelay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">605</Value>
+    </Setting>
+    <Setting Name="RebirthCommand" Type="System.String" Scope="User">
+      <Value Profile="(Default)">@裝備輪迴</Value>
+    </Setting>
+    <Setting Name="Id" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yourUuid</Value>
+    </Setting>
+    <Setting Name="IsMesoTransformationEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MesoTransformationDelay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="Account" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yourAccount</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yourPassword</Value>
+    </Setting>
+    <Setting Name="IsBanDetectionEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="IsFreezerEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
